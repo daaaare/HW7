@@ -1,0 +1,27 @@
+Reno -> San_Francisco -> Salt_Lake_City -> Las_Vegas -> Seattle -> Reno | Total Distance: 3180 miles | Gas Cost: $278.25
+Reno -> San_Francisco -> Salt_Lake_City -> Seattle -> Las_Vegas -> Reno | Total Distance: 3212.00 miles | Gas Cost: $281.05
+Reno -> San_Francisco -> Las_Vegas -> Salt_Lake_City -> Seattle -> Reno | Total Distance: 2713.00 miles | Gas Cost: $237.39
+Reno -> San_Francisco -> Las_Vegas -> Seattle -> Salt_Lake_City -> Reno | Total Distance: 3116.00 miles | Gas Cost: $272.65
+Reno -> San_Francisco -> Seattle -> Las_Vegas -> Salt_Lake_City -> Reno | Total Distance: 3020.00 miles | Gas Cost: $264.25
+Reno -> San_Francisco -> Seattle -> Salt_Lake_City -> Las_Vegas -> Reno | Total Distance: 2649.00 miles | Gas Cost: $231.79
+Reno -> Salt_Lake_City -> San_Francisco -> Las_Vegas -> Seattle -> Reno | Total Distance: 3631.00 miles | Gas Cost: $317.71
+Reno -> Salt_Lake_City -> San_Francisco -> Seattle -> Las_Vegas -> Reno | Total Distance: 3567.00 miles | Gas Cost: $312.11
+Reno -> Salt_Lake_City -> Las_Vegas -> San_Francisco -> Seattle -> Reno | Total Distance: 3068.00 miles | Gas Cost: $268.45
+Reno -> Salt_Lake_City -> Las_Vegas -> Seattle -> San_Francisco -> Reno | Total Distance: 3020.00 miles | Gas Cost: $264.25
+Reno -> Salt_Lake_City -> Seattle -> Las_Vegas -> San_Francisco -> Reno | Total Distance: 3116.00 miles | Gas Cost: $272.65
+Reno -> Salt_Lake_City -> Seattle -> San_Francisco -> Las_Vegas -> Reno | Total Distance: 3100.00 miles | Gas Cost: $271.25
+Reno -> Las_Vegas -> Salt_Lake_City -> San_Francisco -> Seattle -> Reno | Total Distance: 3164.00 miles | Gas Cost: $276.85
+Reno -> Las_Vegas -> Salt_Lake_City -> Seattle -> San_Francisco -> Reno | Total Distance: 2649.00 miles | Gas Cost: $231.79
+Reno -> Las_Vegas -> San_Francisco -> Salt_Lake_City -> Seattle -> Reno | Total Distance: 3260.00 miles | Gas Cost: $285.25
+Reno -> Las_Vegas -> San_Francisco -> Seattle -> Salt_Lake_City -> Reno | Total Distance: 3100.00 miles | Gas Cost: $271.25
+Reno -> Las_Vegas -> Seattle -> San_Francisco -> Salt_Lake_City -> Reno | Total Distance: 3567.00 miles | Gas Cost: $312.11
+Reno -> Las_Vegas -> Seattle -> Salt_Lake_City -> San_Francisco -> Reno | Total Distance: 3212.00 miles | Gas Cost: $281.05
+Reno -> Seattle -> Salt_Lake_City -> Las_Vegas -> San_Francisco -> Reno | Total Distance: 2713.00 miles | Gas Cost: $237.39
+Reno -> Seattle -> Salt_Lake_City -> San_Francisco -> Las_Vegas -> Reno | Total Distance: 3260.00 miles | Gas Cost: $285.25
+Reno -> Seattle -> Las_Vegas -> Salt_Lake_City -> San_Francisco -> Reno | Total Distance: 3180.00 miles | Gas Cost: $278.25
+Reno -> Seattle -> Las_Vegas -> San_Francisco -> Salt_Lake_City -> Reno | Total Distance: 3631.00 miles | Gas Cost: $317.71
+Reno -> Seattle -> San_Francisco -> Las_Vegas -> Salt_Lake_City -> Reno | Total Distance: 3068.00 miles | Gas Cost: $268.45
+Reno -> Seattle -> San_Francisco -> Salt_Lake_City -> Las_Vegas -> Reno | Total Distance: 3164.00 miles | Gas Cost: $276.85
+
+Best Path:
+Reno -> San_Francisco -> Seattle -> Salt_Lake_City -> Las_Vegas -> Reno | Total Distance: 2649.00 miles | Gas Cost: $231.79
